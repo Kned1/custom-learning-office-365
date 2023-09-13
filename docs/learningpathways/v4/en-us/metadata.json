@@ -506,23 +506,23 @@
     },
     {
       "Id": "304b216c-ea4d-436c-83f8-93ba1319943b",
-      "Name": "Champions/Trainer"
+      "Name": "Sales"
     },
     {
       "Id": "41779dd0-ae42-4a62-8b66-bd87c137f4ac",
-      "Name": "HelpDesk"
+      "Name": "ICT"
     },
     {
       "Id": "82a23325-2e47-4ff9-8747-b6e01c452b81",
-      "Name": "End User"
+      "Name": "HR"
     },
     {
       "Id": "97150537-2c2f-42f9-8bc6-73e68fda0d38",
-      "Name": "Change Manager"
+      "Name": "Management"
     },
     {
       "Id": "9fcd26c3-bcca-4452-a40a-f87e0daed348",
-      "Name": "Admin"
+      "Name": "Callcentrum"
     },
     {
       "Id": "a8787978-0ee5-4bc6-9c2c-eb11fc47cbfd",
