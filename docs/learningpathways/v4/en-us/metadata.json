@@ -559,15 +559,15 @@
   "Levels": [
     {
       "Id": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
-      "Name": "Beginner"
+      "Name": "Zkusebni doba"
     },
     {
       "Id": "ab49a955-3814-41fa-aa33-1b2757bc28ea",
-      "Name": "Intermediate"
+      "Name": "Prvni rok"
     },
     {
       "Id": "fbc841eb-1082-4c27-b13b-f7965947cb16",
-      "Name": "Advanced"
+      "Name": "Zamestnanec"
     }
   ],
   "StatusTag": [
