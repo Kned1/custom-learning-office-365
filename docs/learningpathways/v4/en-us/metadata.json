@@ -222,7 +222,17 @@
           "TechnologyId": "",
           "SubjectId": "",
           "Source": "Microsoft",
+          "SubCategories": [
+          {
+          "Id": "07aa7fb7-a187-4a04-a044-f881626a8asc",
+          "Name": "subcategory",
+          "Image": "images/categories/first_days.png",
+          "TechnologyId": "",
+          "SubjectId": "",
+          "Source": "Microsoft",
           "SubCategories": []
+        }
+        ]
         }
       ]
     },
