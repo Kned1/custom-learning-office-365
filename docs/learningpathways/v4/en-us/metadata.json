@@ -210,10 +210,10 @@
     {
       "Id": "1",
       "Name": "Super category",
-      "Image": "",
+      "Image": "images/categories/recommended.png",
       "TechnologyId": "",
       "SubjectId": "",
-      "Source": "",
+      "Source": "Microsoft",
       "SubCategories": []
     },
     {
