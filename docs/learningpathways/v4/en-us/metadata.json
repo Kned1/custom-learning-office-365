@@ -208,7 +208,7 @@
       ]
       },
     {
-      "Id": "1",
+      "Id": "",
       "Name": "Super category",
       "Image": "images/categories/recommended.png",
       "TechnologyId": "",
@@ -216,7 +216,7 @@
       "Source": "Microsoft",
       "SubCategories": [
          {
-          "Id": "1a",
+          "Id": "",
           "Name": "subcategory",
           "Image": "images/categories/first_days.png",
           "TechnologyId": "",
